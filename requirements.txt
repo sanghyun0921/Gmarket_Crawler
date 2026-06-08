@@ -1,0 +1,6 @@
+openpyxl
+selenium
+undetected-chromedriver
+truststore
+certifi
+pyinstaller
